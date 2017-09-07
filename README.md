@@ -1,0 +1,2 @@
+# go-socicoin
+ cryptocurrency coin
