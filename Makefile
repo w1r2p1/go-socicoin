@@ -17,5 +17,5 @@ all:
 	build/env.sh go install
 	
 clean:
-	rm -fr build/_workspace/pkg/ $(GOBIN)/*
+	rm -fr build/_workspace/pkg/ $(GOBIN)/* ./gscc
 	rm -fr build/_workspace
